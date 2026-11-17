@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.coimbatoresracademy.online",
+        "sha256_cert_fingerprints": ["B6:80:56:5D:45:CE:8C:18:73:36:B1:0E:F3:1D:25:8B:E0:01:9F:46:82:A0:DF:FD:C2:A9:35:D7:9F:3C:76:CA"]
+      }
+    }]
